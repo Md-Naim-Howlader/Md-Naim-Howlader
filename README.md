@@ -6,15 +6,11 @@
 I'm a passionate Frontend Web Developer with a focus on creating user-friendly and easily accessible web applications. I adhere to World Wide Web Consortium (W3C) standards to ensure robust and compliant web structures.
 </p>
 
-My skill set includes JavaScript, HTML, CSS,  React JS,  Bootstrap, SASS, and Tailwind CSS.
-
+My skill set includes JavaScript, HTML, CSS,  React.js,  Bootstrap, SASS, and Tailwind CSS etc.
 
 For hosting, I am familiar with  Vercel, and Netlify.
 
 My passion is frontend Development, and I am always trying to update my skills with the latest technology. I can work efficiently within short timeframes without losing patience until the job is successfully completed.
-
-Top skills
-React.js • JavaScript
 
 You can reach me at 
 
@@ -51,9 +47,6 @@ Md. Naim Howlader
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-naim-howlader" alt="md-naim-howlader" /></p>
 
 
-
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Let's build something amazing together! 😊
-
-
 
 Happy coding! 🚀
