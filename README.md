@@ -23,7 +23,7 @@ My GitHub profile is https://github.com/Md-Naim-Howlader
 
 Thank you for your time and consideration.
 
-Sincerely,
+Sincerely, <br/>
 Md. Naim Howlader
 
 #reactjs #javascript #frontend #CSS
