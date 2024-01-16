@@ -29,14 +29,13 @@ Md. Naim Howlader
 
 #reactjs #javascript #frontend #CSS
 
-- 🔭 I’m currently working on Frontend Development 
-- 🌱 I’m currently learning react.js
-- 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Frontend Development 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: Email: mdnaimptk776@gmail.com
-- 😄 Pronouns: @mdNaim
-- ⚡ Fun fact: #codding 
+- 🔭 I’m currently working on **Javascript, React.js, CSS**
+
+- 🌱 I’m currently learning **Redux, Next.js**
+
+- 💬 Ask me about **Javscript, React.js, CSS, HTML etc.**
+
+- 📫 How to reach me **mdnaimptk776@gmail.com**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Naim-Howlader)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-naim-howlader/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/23251041/md-naim-howlader)  
