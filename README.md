@@ -4,9 +4,7 @@
 
 #### Junior Web Developer || JavaScript || || React JS || Tech Enthusiast
 <p>
-My name is Md. Naim Howlader and I am agile, self-motivated, honest, and hard-working person.
-I have extensive experience in front-end development and API integration.
-I have built fully functional user interfaces with React JS.
+I'm a passionate Frontend Web Developer with a focus on creating user-friendly and easily accessible web applications. I adhere to World Wide Web Consortium (W3C) standards to ensure robust and compliant web structures.
 </p>
 
 My skill set includes JavaScript, HTML, CSS,  React JS,  Bootstrap, SASS, and Tailwind CSS.
