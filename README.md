@@ -1,8 +1,7 @@
 ![JavaScript | React |](https://i.ibb.co/Jxj9jM7/linkedin-banner-1.jpg)
 
-### Hi there, I'm Md. Naim Howlader! 👋
-
-#### Junior Web Developer || JavaScript || || React JS || Tech Enthusiast
+<h1 align="left">Hi 👋, I'm Md.Naim Howlader</h1>
+<h3 align="left">Junior Web Developer || JavaScript || || React JS || Tech Enthusiast</h3>
 <p>
 I'm a passionate Frontend Web Developer with a focus on creating user-friendly and easily accessible web applications. I adhere to World Wide Web Consortium (W3C) standards to ensure robust and compliant web structures.
 </p>
