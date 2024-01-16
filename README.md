@@ -44,8 +44,6 @@ Md. Naim Howlader
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-naim-howlader&show_icons=true&locale=en" alt="md-naim-howlader" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-naim-howlader" alt="md-naim-howlader" /></p>
-
 ![](https://komarev.com/ghpvc/?username=Md-Naim-Howlader&color=blue)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Let's build something amazing together! 😊
