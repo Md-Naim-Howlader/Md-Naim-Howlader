@@ -20,10 +20,6 @@ React.js • JavaScript
 You can reach me at 
 
 mdnaimptk776@gmail.com
-and you can view my portfolio at 
-
-https://portfolio-lilac-six.vercel.app/
-
 My GitHub profile is https://github.com/Md-Naim-Howlader
 
 Thank you for your time and consideration.
