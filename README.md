@@ -57,7 +57,7 @@ Md. Naim Howlader
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Naim-Howlader&show_icons=true&count_private=true)  
 
 
-![](https://komarev.com/ghpvc/?username=Md-Naim-Howlader&color=green)
+![](https://komarev.com/ghpvc/?username=Md-Naim-Howlader&color=blue)
 
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Let's build something amazing together! 😊
