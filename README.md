@@ -49,15 +49,15 @@ Md. Naim Howlader
 
 <a href="https://app.daily.dev/mdrony"><img src="https://api.daily.dev/devcards/8d2d4384208f4f06a85e1b62e531b21f.png?r=p0m" width="400" alt="Md.Rony's Dev Card"/></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Md-RonyAhmed)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Md-Naim-Howlade)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-RonyAhmed)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Naim-Howlade)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-RonyAhmed&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Naim-Howlade&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-RonyAhmed)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-Naim-Howlade)
 
-![](https://komarev.com/ghpvc/?username=Md-RonyAhmed&color=green)
+![](https://komarev.com/ghpvc/?username=Md-Naim-Howlade&color=blue)
 
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Let's build something amazing together! 😊
