@@ -1,4 +1,4 @@
-![JavaScript | React |](https://i.ibb.co/ZTh3J5S/1690063355243.jpg)
+![JavaScript | React |](https://i.ibb.co/Jxj9jM7/linkedin-banner-1.jpg)
 
 ### Hi there, I'm Md. Naim Howlader! 👋
 
