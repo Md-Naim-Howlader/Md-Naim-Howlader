@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGtDTgr23ZNVPYuAm4IqmyzMXDkT3IybM_Q&usqp=CAU)
+![](https://i.ibb.co/9ZcgKps/linkedin-banner-9.jpg)
 <!--
 **Md-Naim-Howlader/Md-Naim-Howlader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
