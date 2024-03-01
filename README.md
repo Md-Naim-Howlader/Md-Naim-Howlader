@@ -6,7 +6,7 @@
 I'm a passionate Frontend Web Developer with a focus on creating user-friendly and easily accessible web applications. I adhere to World Wide Web Consortium (W3C) standards to ensure robust and compliant web structures.
 </p>
 
-My skill set includes HTML, CSS, JavaScript, React.js, SASS, Bootstrap and Tailwind css,
+My skill set includes HTML, CSS, JavaScript, React.js, SASS, Bootstrap and Tailwind css.
 
 For hosting, I am familiar with  Vercel, and Netlify.
 
