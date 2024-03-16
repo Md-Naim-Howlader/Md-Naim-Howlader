@@ -15,7 +15,7 @@ My passion is frontend Development, and I am always trying to update my skills w
 You can reach me at 
 
 mdnaimptk776@gmail.com
-My GitHub profile is https://github.com/Md-Naim-Howlader
+My Portfolio URL is https://github.com/Md-Naim-Howlader
 
 Thank you for your time and consideration.
 
