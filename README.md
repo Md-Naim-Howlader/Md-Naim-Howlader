@@ -26,7 +26,7 @@ Md. Naim Howlader
 
 - 🔭 I’m currently working on **Javascript, React.js, CSS**
 
-- 🌱 I’m currently learning **Redux, Next.js**
+- 🌱 I’m currently learning **Redux/toolkit
 
 - 💬 Ask me about **Javscript, React.js, CSS, HTML etc.**
 
