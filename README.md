@@ -6,7 +6,7 @@
 I'm a passionate Frontend Web Developer with a focus on creating user-friendly and easily accessible web applications. I adhere to World Wide Web Consortium (W3C) standards to ensure robust and compliant web structures.
 </p>
 
-My skill set includes HTML, CSS, JavaScript, React.js, SASS, Bootstrap and Tailwind css.
+My skill set includes  JavaScript, React.js, CSS, SASS, Bootstrap and Tailwind css.
 
 For hosting, I am familiar with  Vercel, and Netlify.
 
@@ -26,7 +26,7 @@ Md. Naim Howlader
 
 - 🔭 I’m currently working on **Javascript, React.js, CSS**
 
-- 🌱 I’m currently learning **Redux/toolkit
+- 🌱 I’m currently learning **PHP
 
 - 💬 Ask me about **Javscript, React.js, CSS, HTML etc.**
 
