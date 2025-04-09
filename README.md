@@ -1,7 +1,7 @@
 ![JavaScript | React |](https://i.ibb.co/nMYJc47H/linkedin-banner.jpg)
 
 <h1 align="left">Hi 👋, I'm Md.Naim Howlader</h1>
-<h3 align="left">Front-end Web Developer || JavaScript || || React JS || Programming Enthusiast</h3>
+<h3 align="left">Web Application Developer || JavaScript || || React JS || Programming Enthusiast</h3>
 <p>
 I'm a passionate Frontend Web Developer with a focus on creating user-friendly and easily accessible web applications. I adhere to World Wide Web Consortium (W3C) standards to ensure robust and compliant web structures.
 </p>
