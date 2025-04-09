@@ -1,4 +1,4 @@
-![JavaScript | React |](https://ibb.co/Ldc7tBxL)
+![JavaScript | React |](https://i.ibb.co/nMYJc47H/linkedin-banner.jpg)
 
 <h1 align="left">Hi 👋, I'm Md.Naim Howlader</h1>
 <h3 align="left">Front-end Web Developer || JavaScript || || React JS || Programming Enthusiast</h3>
