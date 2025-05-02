@@ -59,9 +59,3 @@ Git & GitHub • VS Code • Postman • XAMPP • Firebase Auth • cPanel • 
 
 **Feel free to poke around my repos or drop me a line if you’d like to team up on something cool!**  
 
----
-
-### 🔖 Tags
-
-`#Laravel` `#PHP` `#ReactJS` `#WebDeveloper` `#BackendDevelopment` `#FrontendDevelopment` `#MySQL` `#RESTAPI` `#FullStack`
-
