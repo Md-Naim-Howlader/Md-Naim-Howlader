@@ -25,7 +25,7 @@ I’m all about writing code that’s easy to read and easy to grow. Whether it�
 ## 🧰 Tools & Technologies
 
 **Backend**  
-PHP • Laravel • Eloquent ORM • REST APIs • Breeze/Sanctum • Blade • MVC • MySQL
+PHP • OOP • Laravel • Eloquent ORM • REST APIs • Breeze/Sanctum • Blade • MVC • MySQL 
 
 **Frontend**  
 JavaScript (ES6+) • React.js • HTML5 • CSS3 • Tailwind • Bootstrap • SASS/SCSS
