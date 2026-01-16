@@ -46,7 +46,8 @@ Git & GitHub • VS Code • Postman • XAMPP • Firebase Auth • cPanel • 
 
 ## 📊 GitHub at a Glance
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Naim-Howlader&layout=compact)](https://github.com/Md-Naim-Howlader)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Naim-Howlader&layout=compact)](https://github.com/Md-Naim-Howlader)
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Naim-Howlader&show_icons=true)
 
 ---
@@ -54,6 +55,7 @@ Git & GitHub • VS Code • Postman • XAMPP • Firebase Auth • cPanel • 
 ## 🏆 My Badges
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Md-Naim-Howlader)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
