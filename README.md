@@ -46,9 +46,9 @@ Git & GitHub • VS Code • Postman • XAMPP • Firebase Auth • cPanel • 
 
 ## 📊 GitHub at a Glance
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Naim-Howlader&layout=compact)](https://github.com/Md-Naim-Howlader)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Naim-Howlader&show_icons=true&theme=radical)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Md-Naim-Howlader&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Naim-Howlader&show_icons=true)
 
 ---
 
