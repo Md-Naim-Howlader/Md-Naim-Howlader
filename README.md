@@ -64,7 +64,8 @@ Firebase Auth  •  cPanel  •  Netlify  •  Vercel
 ## `~/github-stats` 📊
 
 <div align="center">
-
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Naim-Howlader&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
+  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Naim-Howlader&layout=compact&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=ff6e96)](https://github.com/Md-Naim-Howlader)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Naim-Howlader&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=ff6e96)](https://github.com/Md-Naim-Howlader)
